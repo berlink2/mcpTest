@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mcpTest/static/css/main.f02ba3f7.chunk.css",
+    "main.js": "/mcpTest/static/js/main.be1d728c.chunk.js",
+    "main.js.map": "/mcpTest/static/js/main.be1d728c.chunk.js.map",
+    "runtime-main.js": "/mcpTest/static/js/runtime-main.97689e0c.js",
+    "runtime-main.js.map": "/mcpTest/static/js/runtime-main.97689e0c.js.map",
+    "static/js/2.c8502f23.chunk.js": "/mcpTest/static/js/2.c8502f23.chunk.js",
+    "static/js/2.c8502f23.chunk.js.map": "/mcpTest/static/js/2.c8502f23.chunk.js.map",
+    "index.html": "/mcpTest/index.html",
+    "precache-manifest.da9b81fcf7dcef0f64b1c3a68c6ce039.js": "/mcpTest/precache-manifest.da9b81fcf7dcef0f64b1c3a68c6ce039.js",
+    "service-worker.js": "/mcpTest/service-worker.js",
+    "static/css/main.f02ba3f7.chunk.css.map": "/mcpTest/static/css/main.f02ba3f7.chunk.css.map",
+    "static/js/2.c8502f23.chunk.js.LICENSE.txt": "/mcpTest/static/js/2.c8502f23.chunk.js.LICENSE.txt",
+    "static/media/mcpayment-logo.png": "/mcpTest/static/media/mcpayment-logo.4e4bca50.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97689e0c.js",
+    "static/js/2.c8502f23.chunk.js",
+    "static/css/main.f02ba3f7.chunk.css",
+    "static/js/main.be1d728c.chunk.js"
+  ]
+}
